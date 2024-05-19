@@ -1,4 +1,4 @@
-### Hi there 👋
+###  Hello! I am a passionate Junior Developer and always want to learn new things. I love exploring the world of software development, especially in the field of JavaScript Developer, This is where I share my projects and contributions. Let's grow and develop together in the world of technology!👋
 
 <!--
 **ibnurohman/ibnurohman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
